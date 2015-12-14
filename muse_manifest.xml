@@ -1,0 +1,606 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="niftyknits.org" resolutions="1x" timestamp="1450050748956">
+  <folder name="css">
+    <file name="site_global.css" crc="335043422"/>
+    <file name="master_a-master.css" crc="3813088481" ref="clothing:about--contact:index:toys:shawls"/>
+    <file name="clothing.css" crc="472100042" ref="clothing"/>
+    <file name="iefonts_clothing.css" crc="4139169070" ref="clothing"/>
+    <file name="about--contact.css" crc="3807103005" ref="about--contact"/>
+    <file name="iefonts_about--contact.css" crc="418934740" ref="about--contact"/>
+    <file name="index.css" crc="3905616230" ref="index"/>
+    <file name="iefonts_index.css" crc="276544164" ref="index"/>
+    <file name="toys.css" crc="3893827513" ref="toys"/>
+    <file name="iefonts_toys.css" crc="4090967855" ref="toys"/>
+    <file name="shawls.css" crc="307324938" ref="shawls"/>
+    <file name="iefonts_shawls.css" crc="126890461" ref="shawls"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:about--contact:toys:shawls:clothing"/>
+    <file name="museutils.js" crc="275725342" ref="index:about--contact:toys:shawls:clothing"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:about--contact:toys:shawls:clothing"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:toys:shawls:clothing"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:about--contact:toys:shawls:clothing"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about--contact:toys:shawls:clothing"/>
+    <file name="pie.js" crc="3827607177" ref="about--contact:toys:shawls:clothing"/>
+    <file name="webpro.js" crc="3883484123" ref="about--contact:toys:shawls:clothing"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="about--contact:toys:shawls:clothing"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="about--contact:toys:shawls:clothing"/>
+    <file name="touchswipe.js" crc="4218319045" ref="about--contact:toys:shawls:clothing"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="toys:shawls:clothing"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="184766649" ref="index"/>
+    <file name="felt1.jpg" crc="4136227837" ref="index:about--contact:toys:shawls:clothing"/>
+    <file name="logo-proba.png" crc="4010193278" seo="true" ref="index:about--contact:toys:shawls:clothing"/>
+    <file name="home-1-button-layer 2.png" crc="3788756321" ref="index"/>
+    <file name="home-1-button-clothing.png" crc="4007265368" ref="index"/>
+    <file name="home-2-button-layer 2.jpg" crc="3823938054" ref="index"/>
+    <file name="home-2-button-shawls.jpg" crc="52785888" ref="index"/>
+    <file name="home-3-button-layer 3.jpg" crc="3883816423" ref="index"/>
+    <file name="home-3-button-toys.jpg" crc="4145949690" ref="index"/>
+    <file name="contact.png" crc="3824230866" ref="index"/>
+    <file name="contact2.png" crc="329807268" ref="index"/>
+    <file name="contact-layer 5.png" crc="329807268" ref="index"/>
+    <file name="me-1.jpg" crc="241276706" seo="true" ref="about--contact"/>
+    <file name="blank.gif" crc="4208392903" ref="about--contact:toys:shawls:clothing"/>
+    <file name="me-1-crop-u14562.jpg" crc="3769866388" ref="about--contact"/>
+    <file name="loading.gif" crc="3815509949" ref="about--contact:toys:shawls:clothing"/>
+    <file name="hedgehog-1-u4876-fr.jpg" crc="3995831183" ref="toys"/>
+    <file name="hedgehog-1-u4876-r-fr.png" crc="4155935082" ref="toys"/>
+    <file name="cat-1-1-u4875-fr.jpg" crc="37908479" ref="toys"/>
+    <file name="cat-1-1-u4875-r-fr.png" crc="3845077236" ref="toys"/>
+    <file name="cat-2-1-u4877-fr.jpg" crc="378489649" ref="toys"/>
+    <file name="cat-2-1-u4877-r-fr.png" crc="3816711794" ref="toys"/>
+    <file name="cat-3-1-u4896-fr.jpg" crc="22593037" ref="toys"/>
+    <file name="cat-3-1-u4896-r-fr.png" crc="3884901816" ref="toys"/>
+    <file name="dol-1-1-u7023-fr.jpg" crc="430898633" ref="toys"/>
+    <file name="dol-1-1-u7023-r-fr.png" crc="404158726" ref="toys"/>
+    <file name="dol-3-1-u7025-fr.jpg" crc="219593524" ref="toys"/>
+    <file name="dol-3-1-u7025-r-fr.png" crc="4215989561" ref="toys"/>
+    <file name="dol-2-1-u7027-fr.jpg" crc="4191053347" ref="toys"/>
+    <file name="dol-2-1-u7027-r-fr.png" crc="322357188" ref="toys"/>
+    <file name="hippo-1-u7029-fr.jpg" crc="3864039530" ref="toys"/>
+    <file name="hippo-1-u7029-r-fr.png" crc="4076248048" ref="toys"/>
+    <file name="fish-1-u7031-fr.jpg" crc="535655424" ref="toys"/>
+    <file name="fish-1-u7031-r-fr.png" crc="4105381499" ref="toys"/>
+    <file name="dog-0.jpg" crc="3770156684" ref="toys"/>
+    <file name="dog-0-u7033-r-fr.png" crc="379720001" ref="toys"/>
+    <file name="ted-1-1-u7035-fr.jpg" crc="2161982" ref="toys"/>
+    <file name="ted-1-1-u7035-r-fr.png" crc="3784233687" ref="toys"/>
+    <file name="bird-2-u13280-fr.jpg" crc="4282042685" ref="toys"/>
+    <file name="bird-2-u13280-r-fr.png" crc="323950966" ref="toys"/>
+    <file name="hippo-2-1-u15519-fr.jpg" crc="3979304635" ref="toys"/>
+    <file name="hippo-2-1-u15519-r-fr.png" crc="3897863699" ref="toys"/>
+    <file name="turkey-1-u15603-fr.jpg" crc="345256164" ref="toys"/>
+    <file name="turkey-1-u15603-r-fr.png" crc="211105957" ref="toys"/>
+    <file name="goat-1-u15605-fr.jpg" crc="4200243624" ref="toys"/>
+    <file name="goat-1-u15605-r-fr.png" crc="342074716" ref="toys"/>
+    <file name="ted-2-1-u16827-fr.jpg" crc="3877276531" ref="toys"/>
+    <file name="ted-2-1-u16827-r-fr.png" crc="4037657672" ref="toys"/>
+    <file name="owl-1-u17134-fr.jpg" crc="431303096" ref="toys"/>
+    <file name="owl-1-u17134-r-fr.png" crc="322539199" ref="toys"/>
+    <file name="arist-1-u17587-fr.jpg" crc="4019636689" ref="toys"/>
+    <file name="arist-1-u17587-r-fr.png" crc="3886188613" ref="toys"/>
+    <file name="fox-1-u17860-fr.jpg" crc="4094701324" ref="toys"/>
+    <file name="fox-1-u17860-r-fr.png" crc="351638105" ref="toys"/>
+    <file name="turt-1-u19191-fr.jpg" crc="4278748938" ref="toys"/>
+    <file name="turt-1-u19191-r-fr.png" crc="89568023" ref="toys"/>
+    <file name="bunny-1-u19247-fr.jpg" crc="507335435" ref="toys"/>
+    <file name="bunny-1-u19247-r-fr.png" crc="3790090195" ref="toys"/>
+    <file name="dog-a2-2-u19249-fr.jpg" crc="150304354" ref="toys"/>
+    <file name="dog-a2-2-u19249-r-fr.png" crc="467872727" ref="toys"/>
+    <file name="hedgehog-2.jpg" crc="291382021" seo="true" ref="toys"/>
+    <file name="hedgehog-1.jpg" crc="3962530882" seo="true" ref="toys"/>
+    <file name="hedgehog-3.jpg" crc="3773403951" seo="true" ref="toys"/>
+    <file name="hedgehog-4.jpg" crc="4033663343" seo="true" ref="toys"/>
+    <file name="hedgehog-5.jpg" crc="130938504" seo="true" ref="toys"/>
+    <file name="hedgehog-6.jpg" crc="3914087010" seo="true" ref="toys"/>
+    <file name="hedgehog-7.jpg" crc="510393611" seo="true" ref="toys"/>
+    <file name="hedgehog-2-crop-u5533.jpg" crc="315576762" ref="toys"/>
+    <file name="hedgehog-1-crop-u5619.jpg" crc="4068259395" ref="toys"/>
+    <file name="hedgehog-3-crop-u5628.jpg" crc="3831424174" ref="toys"/>
+    <file name="hedgehog-4-crop-u5637.jpg" crc="380569443" ref="toys"/>
+    <file name="hedgehog-5-crop-u5646.jpg" crc="409867353" ref="toys"/>
+    <file name="hedgehog-6-crop-u5655.jpg" crc="4110789246" ref="toys"/>
+    <file name="hedgehog-7-crop-u5664.jpg" crc="56718303" ref="toys"/>
+    <file name="cat-1-1.jpg" crc="3834228984" seo="true" ref="toys"/>
+    <file name="cat-1-2.jpg" crc="208311813" seo="true" ref="toys"/>
+    <file name="cat-1-3.jpg" crc="230516767" seo="true" ref="toys"/>
+    <file name="cat-1-4.jpg" crc="3783680025" seo="true" ref="toys"/>
+    <file name="cat-1-5.jpg" crc="4245161153" seo="true" ref="toys"/>
+    <file name="cat-1-6.jpg" crc="305626887" seo="true" ref="toys"/>
+    <file name="cat-1-7.jpg" crc="344882649" seo="true" ref="toys"/>
+    <file name="cat-1-1-crop-u6683.jpg" crc="19938104" ref="toys"/>
+    <file name="cat-1-2-crop-u6770.jpg" crc="242567602" ref="toys"/>
+    <file name="cat-1-3-crop-u6779.jpg" crc="4181156470" ref="toys"/>
+    <file name="cat-1-4-crop-u6788.jpg" crc="4143529865" ref="toys"/>
+    <file name="cat-1-5-crop-u6797.jpg" crc="4212954557" ref="toys"/>
+    <file name="cat-1-6-crop-u6806.jpg" crc="485600451" ref="toys"/>
+    <file name="cat-1-7-crop-u6815.jpg" crc="3924557067" ref="toys"/>
+    <file name="cat-2-1.jpg" crc="148476935" seo="true" ref="toys"/>
+    <file name="cat-2-2.jpg" crc="264670722" seo="true" ref="toys"/>
+    <file name="cat-2-3.jpg" crc="4107060539" seo="true" ref="toys"/>
+    <file name="cat-2-4.jpg" crc="508776102" seo="true" ref="toys"/>
+    <file name="cat-2-5.jpg" crc="319452274" seo="true" ref="toys"/>
+    <file name="cat-2-6.jpg" crc="302778939" seo="true" ref="toys"/>
+    <file name="cat-2-1-crop-u6875.jpg" crc="509231962" ref="toys"/>
+    <file name="cat-2-2-crop-u6956.jpg" crc="4188918326" ref="toys"/>
+    <file name="cat-2-3-crop-u6965.jpg" crc="418639349" ref="toys"/>
+    <file name="cat-2-4-crop-u6974.jpg" crc="319550127" ref="toys"/>
+    <file name="cat-2-5-crop-u6983.jpg" crc="493330933" ref="toys"/>
+    <file name="cat-2-6-crop-u6992.jpg" crc="461063094" ref="toys"/>
+    <file name="cat-3-1.jpg" crc="3844762530" seo="true" ref="toys"/>
+    <file name="cat-3-2.jpg" crc="205442294" seo="true" ref="toys"/>
+    <file name="cat-3-3.jpg" crc="36015592" seo="true" ref="toys"/>
+    <file name="cat-3-4.jpg" crc="258065145" seo="true" ref="toys"/>
+    <file name="cat-3-5.jpg" crc="193240715" seo="true" ref="toys"/>
+    <file name="cat-3-6.jpg" crc="79323958" seo="true" ref="toys"/>
+    <file name="cat-3-1-crop-u7296.jpg" crc="4027289992" ref="toys"/>
+    <file name="cat-3-2-crop-u7377.jpg" crc="3923963710" ref="toys"/>
+    <file name="cat-3-3-crop-u7386.jpg" crc="3885968718" ref="toys"/>
+    <file name="cat-3-4-crop-u7395.jpg" crc="3916164653" ref="toys"/>
+    <file name="cat-3-5-crop-u7404.jpg" crc="3952947019" ref="toys"/>
+    <file name="cat-3-6-crop-u7413.jpg" crc="456866364" ref="toys"/>
+    <file name="dol-1-1.jpg" crc="3873260690" seo="true" ref="toys"/>
+    <file name="dol-1-2.jpg" crc="18405948" seo="true" ref="toys"/>
+    <file name="dol-1-3.jpg" crc="179529554" seo="true" ref="toys"/>
+    <file name="dol-1-4.jpg" crc="4062305076" seo="true" ref="toys"/>
+    <file name="dol-1-5.jpg" crc="3933362271" seo="true" ref="toys"/>
+    <file name="dol-1-6.jpg" crc="342351384" seo="true" ref="toys"/>
+    <file name="dol-1-7.jpg" crc="60988191" seo="true" ref="toys"/>
+    <file name="dol-1-1-crop-u7654.jpg" crc="18839254" ref="toys"/>
+    <file name="dol-1-2-crop-u7755.jpg" crc="6543019" ref="toys"/>
+    <file name="dol-1-3-crop-u7764.jpg" crc="3886013776" ref="toys"/>
+    <file name="dol-1-4-crop-u7773.jpg" crc="67058960" ref="toys"/>
+    <file name="dol-1-5-crop-u7782.jpg" crc="4133712312" ref="toys"/>
+    <file name="dol-1-6-crop-u7791.jpg" crc="4054497325" ref="toys"/>
+    <file name="dol-1-7-crop-u7800.jpg" crc="68993438" ref="toys"/>
+    <file name="dol-3-1.jpg" crc="71006768" seo="true" ref="toys"/>
+    <file name="dol-3-2.jpg" crc="260000518" seo="true" ref="toys"/>
+    <file name="dol-3-3.jpg" crc="4142270746" seo="true" ref="toys"/>
+    <file name="dol-3-4.jpg" crc="124533210" seo="true" ref="toys"/>
+    <file name="dol-3-5.jpg" crc="175292091" seo="true" ref="toys"/>
+    <file name="dol-3-6.jpg" crc="206899913" seo="true" ref="toys"/>
+    <file name="dol-3-1-crop-u8925.jpg" crc="309061423" ref="toys"/>
+    <file name="dol-3-2-crop-u9026.jpg" crc="4099536489" ref="toys"/>
+    <file name="dol-3-3-crop-u9035.jpg" crc="152123883" ref="toys"/>
+    <file name="dol-3-4-crop-u9044.jpg" crc="55127509" ref="toys"/>
+    <file name="dol-3-5-crop-u9053.jpg" crc="3909829058" ref="toys"/>
+    <file name="dol-3-6-crop-u9062.jpg" crc="454677686" ref="toys"/>
+    <file name="dol-2-1.jpg" crc="437537874" seo="true" ref="toys"/>
+    <file name="dol-2-4.jpg" crc="4033868941" seo="true" ref="toys"/>
+    <file name="dol-2-2.jpg" crc="3840641085" seo="true" ref="toys"/>
+    <file name="dol-2-3.jpg" crc="4073296151" seo="true" ref="toys"/>
+    <file name="dol-2-6.jpg" crc="4114366692" seo="true" ref="toys"/>
+    <file name="dol-2-5.jpg" crc="489264447" seo="true" ref="toys"/>
+    <file name="dol-2-7.jpg" crc="487054332" seo="true" ref="toys"/>
+    <file name="dol-2-1-crop-u8221.jpg" crc="3836765505" ref="toys"/>
+    <file name="dol-2-4-crop-u8323.jpg" crc="4274153564" ref="toys"/>
+    <file name="dol-2-2-crop-u8305.jpg" crc="181661347" ref="toys"/>
+    <file name="dol-2-3-crop-u8314.jpg" crc="4083837380" ref="toys"/>
+    <file name="dol-2-6-crop-u8341.jpg" crc="110908217" ref="toys"/>
+    <file name="dol-2-5-crop-u8332.jpg" crc="3948459262" ref="toys"/>
+    <file name="dol-2-7-crop-u8350.jpg" crc="4216453877" ref="toys"/>
+    <file name="hippo-1.jpg" crc="70768392" seo="true" ref="toys"/>
+    <file name="hippo-2.jpg" crc="3833787963" seo="true" ref="toys"/>
+    <file name="hippo-3.jpg" crc="510538739" seo="true" ref="toys"/>
+    <file name="hippo-4.jpg" crc="4100400381" seo="true" ref="toys"/>
+    <file name="hippo-5.jpg" crc="303844122" seo="true" ref="toys"/>
+    <file name="hippo-6.jpg" crc="4124362094" seo="true" ref="toys"/>
+    <file name="hippo-1-crop-u8033.jpg" crc="4103465909" ref="toys"/>
+    <file name="hippo-2-crop-u8112.jpg" crc="4032375992" ref="toys"/>
+    <file name="hippo-3-crop-u8121.jpg" crc="3791247216" ref="toys"/>
+    <file name="hippo-4-crop-u8130.jpg" crc="184002493" ref="toys"/>
+    <file name="hippo-5-crop-u8139.jpg" crc="325452687" ref="toys"/>
+    <file name="hippo-6-crop-u8148.jpg" crc="3945298085" ref="toys"/>
+    <file name="fish-1.jpg" crc="340503058" seo="true" ref="toys"/>
+    <file name="fish-2.jpg" crc="5239120" seo="true" ref="toys"/>
+    <file name="fish-3.jpg" crc="315316728" seo="true" ref="toys"/>
+    <file name="fish-4.jpg" crc="4263572726" seo="true" ref="toys"/>
+    <file name="fish-5.jpg" crc="4218674290" seo="true" ref="toys"/>
+    <file name="fish-6jpg.jpg" crc="3895828304" seo="true" ref="toys"/>
+    <file name="fish-1-crop-u8748.jpg" crc="194651911" ref="toys"/>
+    <file name="fish-2-crop-u8849.jpg" crc="4078949546" ref="toys"/>
+    <file name="fish-3-crop-u8858.jpg" crc="134007865" ref="toys"/>
+    <file name="fish-4-crop-u8867.jpg" crc="4095467049" ref="toys"/>
+    <file name="fish-5-crop-u8876.jpg" crc="410201835" ref="toys"/>
+    <file name="fish-6jpg-crop-u8885.jpg" crc="315044830" ref="toys"/>
+    <file name="dog-1.jpg" crc="3854546854" seo="true" ref="toys"/>
+    <file name="dog-2.jpg" crc="3924570754" seo="true" ref="toys"/>
+    <file name="dog-3.jpg" crc="4183429492" seo="true" ref="toys"/>
+    <file name="dog-4.jpg" crc="4237465468" seo="true" ref="toys"/>
+    <file name="dog-5.jpg" crc="471486467" seo="true" ref="toys"/>
+    <file name="dog-6.jpg" crc="314924666" seo="true" ref="toys"/>
+    <file name="dog-7.jpg" crc="413657210" seo="true" ref="toys"/>
+    <file name="dog-1-crop-u8430.jpg" crc="5294094" ref="toys"/>
+    <file name="dog-2-crop-u8516.jpg" crc="3807796952" ref="toys"/>
+    <file name="dog-3-crop-u8525.jpg" crc="5275880" ref="toys"/>
+    <file name="dog-4-crop-u8534.jpg" crc="234040768" ref="toys"/>
+    <file name="dog-5-crop-u8543.jpg" crc="494254811" ref="toys"/>
+    <file name="dog-6-crop-u8552.jpg" crc="3925767861" ref="toys"/>
+    <file name="dog-7-crop-u8561.jpg" crc="4200725522" ref="toys"/>
+    <file name="ted-1-1.jpg" crc="52512708" seo="true" ref="toys"/>
+    <file name="ted-1-2.jpg" crc="4026510465" seo="true" ref="toys"/>
+    <file name="ted-1-3.jpg" crc="3995336877" seo="true" ref="toys"/>
+    <file name="ted-1-4.jpg" crc="3964041740" seo="true" ref="toys"/>
+    <file name="ted-1-5.jpg" crc="527879108" seo="true" ref="toys"/>
+    <file name="ted-1-6.jpg" crc="399444678" seo="true" ref="toys"/>
+    <file name="ted-1-7.jpg" crc="3924978581" seo="true" ref="toys"/>
+    <file name="ted-1-1-crop-u9133.jpg" crc="302731565" ref="toys"/>
+    <file name="ted-1-2-crop-u9239.jpg" crc="3877636349" ref="toys"/>
+    <file name="ted-1-3-crop-u9248.jpg" crc="4194479389" ref="toys"/>
+    <file name="ted-1-4-crop-u9257.jpg" crc="4162961635" ref="toys"/>
+    <file name="ted-1-5-crop-u9266.jpg" crc="4031076396" ref="toys"/>
+    <file name="ted-1-6-crop-u9275.jpg" crc="3772260773" ref="toys"/>
+    <file name="ted-1-7-crop-u9284.jpg" crc="3861062513" ref="toys"/>
+    <file name="bird-2.jpg" crc="482824877" seo="true" ref="toys"/>
+    <file name="bird-3.jpg" crc="4182781823" seo="true" ref="toys"/>
+    <file name="bird-4.jpg" crc="182693541" seo="true" ref="toys"/>
+    <file name="bird-5.jpg" crc="3994721910" seo="true" ref="toys"/>
+    <file name="bird-6.jpg" crc="3952259806" seo="true" ref="toys"/>
+    <file name="bird-7.jpg" crc="371557096" seo="true" ref="toys"/>
+    <file name="bird-8.jpg" crc="3981870614" seo="true" ref="toys"/>
+    <file name="bird-2-crop-u13445.jpg" crc="4021255407" ref="toys"/>
+    <file name="bird-3-crop-u13559.jpg" crc="192429405" ref="toys"/>
+    <file name="bird-4-crop-u13568.jpg" crc="4071900762" ref="toys"/>
+    <file name="bird-5-crop-u13577.jpg" crc="3954530228" ref="toys"/>
+    <file name="bird-6-crop-u13586.jpg" crc="3876053433" ref="toys"/>
+    <file name="bird-7-crop-u13595.jpg" crc="3819077367" ref="toys"/>
+    <file name="bird-8-crop-u13604.jpg" crc="279430587" ref="toys"/>
+    <file name="hippo-2-1.jpg" crc="4138632907" seo="true" ref="toys"/>
+    <file name="hippo-2-2.jpg" crc="63191672" seo="true" ref="toys"/>
+    <file name="hippo-2-3.jpg" crc="441513832" seo="true" ref="toys"/>
+    <file name="hippo-2-4.jpg" crc="484695541" seo="true" ref="toys"/>
+    <file name="hippo-2-5.jpg" crc="4003259913" seo="true" ref="toys"/>
+    <file name="hippo-2-6.jpg" crc="359843923" seo="true" ref="toys"/>
+    <file name="hippo-2-7.jpg" crc="4271324267" seo="true" ref="toys"/>
+    <file name="hippo-2-1-crop-u16036.jpg" crc="4168412522" ref="toys"/>
+    <file name="hippo-2-2-crop-u16196.jpg" crc="3812289581" ref="toys"/>
+    <file name="hippo-2-3-crop-u16205.jpg" crc="4103709396" ref="toys"/>
+    <file name="hippo-2-4-crop-u16214.jpg" crc="4286135337" ref="toys"/>
+    <file name="hippo-2-5-crop-u16223.jpg" crc="490556256" ref="toys"/>
+    <file name="hippo-2-6-crop-u16232.jpg" crc="339848185" ref="toys"/>
+    <file name="hippo-2-7-crop-u16241.jpg" crc="3789101995" ref="toys"/>
+    <file name="turkey-1.jpg" crc="240016521" seo="true" ref="toys"/>
+    <file name="turkey-2.jpg" crc="3831357148" seo="true" ref="toys"/>
+    <file name="turkey-3.jpg" crc="3764747568" seo="true" ref="toys"/>
+    <file name="turkey-4.jpg" crc="4112486393" seo="true" ref="toys"/>
+    <file name="turkey-5.jpg" crc="237951783" seo="true" ref="toys"/>
+    <file name="turkey-6.jpg" crc="301348011" seo="true" ref="toys"/>
+    <file name="turkey-1-crop-u16310.jpg" crc="98587156" ref="toys"/>
+    <file name="turkey-2-crop-u16413.jpg" crc="248796467" ref="toys"/>
+    <file name="turkey-3-crop-u16422.jpg" crc="195122145" ref="toys"/>
+    <file name="turkey-4-crop-u16431.jpg" crc="260358209" ref="toys"/>
+    <file name="turkey-5-crop-u16440.jpg" crc="508825304" ref="toys"/>
+    <file name="turkey-6-crop-u16449.jpg" crc="318075349" ref="toys"/>
+    <file name="goat-1.jpg" crc="159811843" seo="true" ref="toys"/>
+    <file name="goat-2.jpg" crc="170901467" seo="true" ref="toys"/>
+    <file name="goat-3.jpg" crc="149112636" seo="true" ref="toys"/>
+    <file name="goat-4.jpg" crc="226506970" seo="true" ref="toys"/>
+    <file name="goat-5.jpg" crc="263905919" seo="true" ref="toys"/>
+    <file name="goat-6.jpg" crc="148337567" seo="true" ref="toys"/>
+    <file name="goat-7.jpg" crc="4266045042" seo="true" ref="toys"/>
+    <file name="goat-1-crop-u16497.jpg" crc="3887752171" ref="toys"/>
+    <file name="goat-2-crop-u16600.jpg" crc="164676350" ref="toys"/>
+    <file name="goat-3-crop-u16609.jpg" crc="4126449401" ref="toys"/>
+    <file name="goat-4-crop-u16618.jpg" crc="344674351" ref="toys"/>
+    <file name="goat-5-crop-u16627.jpg" crc="4253481998" ref="toys"/>
+    <file name="goat-6-crop-u16636.jpg" crc="97301177" ref="toys"/>
+    <file name="goat-7-crop-u16645.jpg" crc="3831859144" ref="toys"/>
+    <file name="ted-2-1.jpg" crc="4244855032" seo="true" ref="toys"/>
+    <file name="ted-2-2.jpg" crc="4076684033" seo="true" ref="toys"/>
+    <file name="ted-2-3.jpg" crc="4250419322" seo="true" ref="toys"/>
+    <file name="ted-2-4.jpg" crc="43523194" seo="true" ref="toys"/>
+    <file name="ted-2-5.jpg" crc="521606403" seo="true" ref="toys"/>
+    <file name="ted-2-6.jpg" crc="3892515650" seo="true" ref="toys"/>
+    <file name="ted-2-7.jpg" crc="169362685" seo="true" ref="toys"/>
+    <file name="ted-2-8.jpg" crc="3917131907" seo="true" ref="toys"/>
+    <file name="ted-2-1-crop-u17038.jpg" crc="453231038" ref="toys"/>
+    <file name="ted-2-2-crop-u17047.jpg" crc="101335215" ref="toys"/>
+    <file name="ted-2-3-crop-u17056.jpg" crc="3840065649" ref="toys"/>
+    <file name="ted-2-4-crop-u17065.jpg" crc="3838162153" ref="toys"/>
+    <file name="ted-2-5-crop-u17074.jpg" crc="95993303" ref="toys"/>
+    <file name="ted-2-6-crop-u17083.jpg" crc="286164194" ref="toys"/>
+    <file name="ted-2-7-crop-u17092.jpg" crc="3962374297" ref="toys"/>
+    <file name="ted-2-8-crop-u17101.jpg" crc="310912410" ref="toys"/>
+    <file name="owl-1.jpg" crc="92803595" seo="true" ref="toys"/>
+    <file name="owl-2.jpg" crc="4003923537" seo="true" ref="toys"/>
+    <file name="owl-3.jpg" crc="335362247" seo="true" ref="toys"/>
+    <file name="owl-4.jpg" crc="321286886" seo="true" ref="toys"/>
+    <file name="owl-5.jpg" crc="213930696" seo="true" ref="toys"/>
+    <file name="owl-6.jpg" crc="157635221" seo="true" ref="toys"/>
+    <file name="owl-7.jpg" crc="264055086" seo="true" ref="toys"/>
+    <file name="owl-1-crop-u17316.jpg" crc="4129632596" ref="toys"/>
+    <file name="owl-2-crop-u17535.jpg" crc="4256344855" ref="toys"/>
+    <file name="owl-3-crop-u17544.jpg" crc="504921391" ref="toys"/>
+    <file name="owl-4-crop-u17553.jpg" crc="374944891" ref="toys"/>
+    <file name="owl-5-crop-u17562.jpg" crc="4178437735" ref="toys"/>
+    <file name="owl-6-crop-u17571.jpg" crc="162437644" ref="toys"/>
+    <file name="owl-7-crop-u17580.jpg" crc="3853379342" ref="toys"/>
+    <file name="arist-1.jpg" crc="3778862260" seo="true" ref="toys"/>
+    <file name="arist-2.jpg" crc="4231902672" seo="true" ref="toys"/>
+    <file name="arist-3.jpg" crc="3954169934" seo="true" ref="toys"/>
+    <file name="arist-4.jpg" crc="3940092834" seo="true" ref="toys"/>
+    <file name="arist-5.jpg" crc="3910810832" seo="true" ref="toys"/>
+    <file name="arist-6.jpg" crc="4192669589" seo="true" ref="toys"/>
+    <file name="arist-7.jpg" crc="518916665" seo="true" ref="toys"/>
+    <file name="arist-1-crop-u17677.jpg" crc="409911720" ref="toys"/>
+    <file name="arist-2-crop-u17799.jpg" crc="140905255" ref="toys"/>
+    <file name="arist-3-crop-u17808.jpg" crc="4175635875" ref="toys"/>
+    <file name="arist-4-crop-u17817.jpg" crc="275561327" ref="toys"/>
+    <file name="arist-5-crop-u17826.jpg" crc="473089991" ref="toys"/>
+    <file name="arist-6-crop-u17835.jpg" crc="4290773253" ref="toys"/>
+    <file name="arist-7-crop-u17844.jpg" crc="3760883989" ref="toys"/>
+    <file name="fox-1.jpg" crc="319493082" seo="true" ref="toys"/>
+    <file name="fox-2.jpg" crc="403549083" seo="true" ref="toys"/>
+    <file name="fox-3.jpg" crc="355255613" seo="true" ref="toys"/>
+    <file name="fox-4.jpg" crc="473141398" seo="true" ref="toys"/>
+    <file name="fox-5.jpg" crc="368803411" seo="true" ref="toys"/>
+    <file name="fox-6.jpg" crc="488186391" seo="true" ref="toys"/>
+    <file name="fox-1-crop-u17949.jpg" crc="198193239" ref="toys"/>
+    <file name="fox-2-crop-u18067.jpg" crc="145160355" ref="toys"/>
+    <file name="fox-3-crop-u18076.jpg" crc="111227468" ref="toys"/>
+    <file name="fox-4-crop-u18085.jpg" crc="3830858152" ref="toys"/>
+    <file name="fox-5-crop-u18094.jpg" crc="426777070" ref="toys"/>
+    <file name="fox-6-crop-u18103.jpg" crc="527406307" ref="toys"/>
+    <file name="turt-1.jpg" crc="197045204" seo="true" ref="toys"/>
+    <file name="turt-2.jpg" crc="3978665515" seo="true" ref="toys"/>
+    <file name="turt-5.jpg" crc="327071446" seo="true" ref="toys"/>
+    <file name="turt-3.jpg" crc="209666295" seo="true" ref="toys"/>
+    <file name="turt-4.jpg" crc="4024172673" seo="true" ref="toys"/>
+    <file name="turt-6.jpg" crc="4125096127" seo="true" ref="toys"/>
+    <file name="turt-7.jpg" crc="4038461934" seo="true" ref="toys"/>
+    <file name="turt-1-crop-u19299.jpg" crc="256677256" ref="toys"/>
+    <file name="turt-2-crop-u19371.jpg" crc="278209744" ref="toys"/>
+    <file name="turt-5-crop-u19380.jpg" crc="1988710" ref="toys"/>
+    <file name="turt-3-crop-u19389.jpg" crc="3968312614" ref="toys"/>
+    <file name="turt-4-crop-u19407.jpg" crc="375995273" ref="toys"/>
+    <file name="turt-6-crop-u19398.jpg" crc="312317030" ref="toys"/>
+    <file name="turt-7-crop-u19416.jpg" crc="74081666" ref="toys"/>
+    <file name="bunny-1.jpg" crc="4087984763" seo="true" ref="toys"/>
+    <file name="bunny-2.jpg" crc="4249939725" seo="true" ref="toys"/>
+    <file name="bunny-3.jpg" crc="505506897" seo="true" ref="toys"/>
+    <file name="bunny-4.jpg" crc="324633552" seo="true" ref="toys"/>
+    <file name="bunny-5.jpg" crc="3893280404" seo="true" ref="toys"/>
+    <file name="bunny-6.jpg" crc="3824191507" seo="true" ref="toys"/>
+    <file name="bunny-7.jpg" crc="3838634632" seo="true" ref="toys"/>
+    <file name="bunny-1-crop-u19464.jpg" crc="4085543945" ref="toys"/>
+    <file name="bunny-2-crop-u19574.jpg" crc="325224702" ref="toys"/>
+    <file name="bunny-3-crop-u19583.jpg" crc="152260731" ref="toys"/>
+    <file name="bunny-4-crop-u19565.jpg" crc="19942749" ref="toys"/>
+    <file name="bunny-5-crop-u19592.jpg" crc="4071596656" ref="toys"/>
+    <file name="bunny-6-crop-u19601.jpg" crc="3767498458" ref="toys"/>
+    <file name="bunny-7-crop-u19610.jpg" crc="3802948352" ref="toys"/>
+    <file name="dog-a2-1.jpg" crc="426405600" seo="true" ref="toys"/>
+    <file name="dog-a2-2.jpg" crc="4104365998" seo="true" ref="toys"/>
+    <file name="dog-a2-3.jpg" crc="4052950301" seo="true" ref="toys"/>
+    <file name="dog-a2-6.jpg" crc="3934175668" seo="true" ref="toys"/>
+    <file name="dog-a2-4.jpg" crc="319499955" seo="true" ref="toys"/>
+    <file name="dog-a2-5.jpg" crc="360317119" seo="true" ref="toys"/>
+    <file name="dog-a2-7.jpg" crc="510731730" seo="true" ref="toys"/>
+    <file name="dog-a2-1-crop-u19643.jpg" crc="4074372255" ref="toys"/>
+    <file name="dog-a2-2-crop-u19710.jpg" crc="442201764" ref="toys"/>
+    <file name="dog-a2-3-crop-u19719.jpg" crc="4040268655" ref="toys"/>
+    <file name="dog-a2-6-crop-u19728.jpg" crc="413495043" ref="toys"/>
+    <file name="dog-a2-4-crop-u19737.jpg" crc="295834374" ref="toys"/>
+    <file name="dog-a2-5-crop-u19746.jpg" crc="3935980749" ref="toys"/>
+    <file name="dog-a2-7-crop-u19755.jpg" crc="12399918" ref="toys"/>
+    <file name="close-button-ellipse 2 copy 5c.png" crc="301328443" ref="toys"/>
+    <file name="close-button-ellipse 2 copy 6.png" crc="3901802776" ref="toys:shawls:clothing"/>
+    <file name="top-button-1-ellipse 2 copy 8.png" crc="227481063" ref="toys:shawls:clothing"/>
+    <file name="top-button-1-ellipse 2 copy 9.png" crc="4094345682" ref="toys:shawls:clothing"/>
+    <file name="shawl-1-2-u7052-fr.jpg" crc="131847966" ref="shawls"/>
+    <file name="shawl-1-2-u7052-r-fr.png" crc="3868603727" ref="shawls"/>
+    <file name="shawl-2-1-u7051-fr.jpg" crc="260177256" ref="shawls"/>
+    <file name="shawl-2-1-u7051-r-fr.png" crc="51116409" ref="shawls"/>
+    <file name="shawl-3-1-u7073-fr.jpg" crc="4255195227" ref="shawls"/>
+    <file name="shawl-3-1-u7073-r-fr.png" crc="469434949" ref="shawls"/>
+    <file name="shawl-5-1-u9782-fr.jpg" crc="410309953" ref="shawls"/>
+    <file name="shawl-5-1-u9782-r-fr.png" crc="199654855" ref="shawls"/>
+    <file name="shawl-4-1-u9784-fr.jpg" crc="4261033469" ref="shawls"/>
+    <file name="shawl-4-1-u9784-r-fr.png" crc="4268807736" ref="shawls"/>
+    <file name="shawl-6-1-u9786-fr.jpg" crc="4112593232" ref="shawls"/>
+    <file name="shawl-6-1-u9786-r-fr.png" crc="302211510" ref="shawls"/>
+    <file name="shawl-7-1-u9798-fr.jpg" crc="4149036295" ref="shawls"/>
+    <file name="shawl-7-1-u9798-r-fr.png" crc="77183544" ref="shawls"/>
+    <file name="shawl-8-1-u9800-fr.jpg" crc="3958443857" ref="shawls"/>
+    <file name="shawl-8-1-u9800-r-fr.png" crc="534759584" ref="shawls"/>
+    <file name="shawl-1-1.jpg" crc="488602089" seo="true" ref="shawls"/>
+    <file name="shawl-1-2.jpg" crc="4064951967" seo="true" ref="shawls"/>
+    <file name="shawl-1-3.jpg" crc="319424986" seo="true" ref="shawls"/>
+    <file name="shawl-1-4.jpg" crc="100417960" seo="true" ref="shawls"/>
+    <file name="shawl-1-5.jpg" crc="4112049573" seo="true" ref="shawls"/>
+    <file name="shawl-1-6.jpg" crc="3966196987" seo="true" ref="shawls"/>
+    <file name="shawl-1-191x69.jpg" crc="3864598879" seo="true" ref="shawls"/>
+    <file name="shawl-1-291x69.jpg" crc="3951532754" seo="true" ref="shawls"/>
+    <file name="shawl-1-391x69.jpg" crc="3759151200" seo="true" ref="shawls"/>
+    <file name="shawl-1-491x69.jpg" crc="3775760362" seo="true" ref="shawls"/>
+    <file name="shawl-1-591x69.jpg" crc="3839988518" seo="true" ref="shawls"/>
+    <file name="shawl-1-691x69.jpg" crc="4036336240" seo="true" ref="shawls"/>
+    <file name="shawl-2-1.jpg" crc="29185495" seo="true" ref="shawls"/>
+    <file name="shawl-2-2.jpg" crc="533381006" seo="true" ref="shawls"/>
+    <file name="shawl-2-3.jpg" crc="229105100" seo="true" ref="shawls"/>
+    <file name="shawl-2-4.jpg" crc="156724340" seo="true" ref="shawls"/>
+    <file name="shawl-2-5.jpg" crc="534018001" seo="true" ref="shawls"/>
+    <file name="shawl-2-6.jpg" crc="3835607612" seo="true" ref="shawls"/>
+    <file name="shawl-2-191x69.jpg" crc="196684886" seo="true" ref="shawls"/>
+    <file name="shawl-2-291x69.jpg" crc="3969736023" seo="true" ref="shawls"/>
+    <file name="shawl-2-391x69.jpg" crc="329886986" seo="true" ref="shawls"/>
+    <file name="shawl-2-491x69.jpg" crc="4210947057" seo="true" ref="shawls"/>
+    <file name="shawl-2-591x69.jpg" crc="4235217024" seo="true" ref="shawls"/>
+    <file name="shawl-2-691x69.jpg" crc="4007226146" seo="true" ref="shawls"/>
+    <file name="shawl-3-1.jpg" crc="4285736901" seo="true" ref="shawls"/>
+    <file name="shawl-3-2.jpg" crc="204304241" seo="true" ref="shawls"/>
+    <file name="shawl-3-3.jpg" crc="3959337962" seo="true" ref="shawls"/>
+    <file name="shawl-3-4.jpg" crc="248961261" seo="true" ref="shawls"/>
+    <file name="shawl-3-5.jpg" crc="3782934238" seo="true" ref="shawls"/>
+    <file name="shawl-3-6.jpg" crc="3935780617" seo="true" ref="shawls"/>
+    <file name="shawl-3-191x69.jpg" crc="363653585" seo="true" ref="shawls"/>
+    <file name="shawl-3-291x69.jpg" crc="3839584254" seo="true" ref="shawls"/>
+    <file name="shawl-3-391x69.jpg" crc="337622555" seo="true" ref="shawls"/>
+    <file name="shawl-3-491x69.jpg" crc="3809953382" seo="true" ref="shawls"/>
+    <file name="shawl-3-591x69.jpg" crc="3832109254" seo="true" ref="shawls"/>
+    <file name="shawl-3-691x69.jpg" crc="416149914" seo="true" ref="shawls"/>
+    <file name="shawl-5-1.jpg" crc="3869390903" seo="true" ref="shawls"/>
+    <file name="shawl-5-2.jpg" crc="4271717797" seo="true" ref="shawls"/>
+    <file name="shawl-5-3.jpg" crc="4152728220" seo="true" ref="shawls"/>
+    <file name="shawl-5-4.jpg" crc="4078063838" seo="true" ref="shawls"/>
+    <file name="shawl-5-1-crop-u10283.jpg" crc="494190792" ref="shawls"/>
+    <file name="shawl-5-2-crop-u10347.jpg" crc="222532946" ref="shawls"/>
+    <file name="shawl-5-3-crop-u10356.jpg" crc="3926296200" ref="shawls"/>
+    <file name="shawl-5-4-crop-u10365.jpg" crc="335973098" ref="shawls"/>
+    <file name="shawl-4-1.jpg" crc="120574532" seo="true" ref="shawls"/>
+    <file name="shawl-4-2.jpg" crc="3965065869" seo="true" ref="shawls"/>
+    <file name="shawl-4-3.jpg" crc="203954025" seo="true" ref="shawls"/>
+    <file name="shawl-4-4.jpg" crc="324423805" seo="true" ref="shawls"/>
+    <file name="shawl-4-5.jpg" crc="4223957803" seo="true" ref="shawls"/>
+    <file name="shawl-4-6.jpg" crc="3885899809" seo="true" ref="shawls"/>
+    <file name="shawl-4-191x69.jpg" crc="145853246" seo="true" ref="shawls"/>
+    <file name="shawl-4-291x69.jpg" crc="226080213" seo="true" ref="shawls"/>
+    <file name="shawl-4-391x69.jpg" crc="122152064" seo="true" ref="shawls"/>
+    <file name="shawl-4-491x69.jpg" crc="65228496" seo="true" ref="shawls"/>
+    <file name="shawl-4-591x69.jpg" crc="35825747" seo="true" ref="shawls"/>
+    <file name="shawl-4-691x69.jpg" crc="261640104" seo="true" ref="shawls"/>
+    <file name="shawl-6-1.jpg" crc="331987211" seo="true" ref="shawls"/>
+    <file name="shawl-6-2.jpg" crc="197957867" seo="true" ref="shawls"/>
+    <file name="shawl-6-3.jpg" crc="189268299" seo="true" ref="shawls"/>
+    <file name="shawl-6-4.jpg" crc="384656150" seo="true" ref="shawls"/>
+    <file name="shawl-6-5.jpg" crc="4187334732" seo="true" ref="shawls"/>
+    <file name="shawl-6-1103x78.jpg" crc="139565094" seo="true" ref="shawls"/>
+    <file name="shawl-6-2102x77.jpg" crc="3785442091" seo="true" ref="shawls"/>
+    <file name="shawl-6-3103x78.jpg" crc="4254434225" seo="true" ref="shawls"/>
+    <file name="shawl-6-4102x77.jpg" crc="287345467" seo="true" ref="shawls"/>
+    <file name="shawl-6-5102x77.jpg" crc="273798127" seo="true" ref="shawls"/>
+    <file name="shawl-7-1.jpg" crc="3883043146" seo="true" ref="shawls"/>
+    <file name="shawl-7-2.jpg" crc="3958025323" seo="true" ref="shawls"/>
+    <file name="shawl-7-3.jpg" crc="356968461" seo="true" ref="shawls"/>
+    <file name="shawl-7-4.jpg" crc="3919338692" seo="true" ref="shawls"/>
+    <file name="shawl-7-5.jpg" crc="410305596" seo="true" ref="shawls"/>
+    <file name="shawl-7-6.jpg" crc="503401364" seo="true" ref="shawls"/>
+    <file name="shawl-7-191x69.jpg" crc="365109720" seo="true" ref="shawls"/>
+    <file name="shawl-7-291x69.jpg" crc="4064295671" seo="true" ref="shawls"/>
+    <file name="shawl-7-391x69.jpg" crc="344945442" seo="true" ref="shawls"/>
+    <file name="shawl-7-491x69.jpg" crc="55925901" seo="true" ref="shawls"/>
+    <file name="shawl-7-591x69.jpg" crc="428051598" seo="true" ref="shawls"/>
+    <file name="shawl-7-691x69.jpg" crc="4096568534" seo="true" ref="shawls"/>
+    <file name="shawl-8-1.jpg" crc="202030110" seo="true" ref="shawls"/>
+    <file name="shawl-8-2.jpg" crc="3770650111" seo="true" ref="shawls"/>
+    <file name="shawl-8-3.jpg" crc="222673543" seo="true" ref="shawls"/>
+    <file name="shawl-8-4.jpg" crc="524734964" seo="true" ref="shawls"/>
+    <file name="shawl-8-5.jpg" crc="3826277933" seo="true" ref="shawls"/>
+    <file name="shawl-8-1103x77.jpg" crc="430133379" seo="true" ref="shawls"/>
+    <file name="shawl-8-2103x77.jpg" crc="4126244291" seo="true" ref="shawls"/>
+    <file name="shawl-8-3103x77.jpg" crc="50979577" seo="true" ref="shawls"/>
+    <file name="shawl-8-4103x77.jpg" crc="518803278" seo="true" ref="shawls"/>
+    <file name="shawl-8-5103x77.jpg" crc="4097217891" seo="true" ref="shawls"/>
+    <file name="close-button-ellipse 2 copy 5.png" crc="42375000" ref="shawls:clothing"/>
+    <file name="w-01-1-u11148-fr.jpg" crc="4079519090" ref="clothing"/>
+    <file name="w-01-1-u11148-r-fr.png" crc="391178341" ref="clothing"/>
+    <file name="w-02-1-u11149-fr.jpg" crc="4293420184" ref="clothing"/>
+    <file name="w-02-1-u11149-r-fr.png" crc="4112904625" ref="clothing"/>
+    <file name="w-03-1-u11349-fr.jpg" crc="462487837" ref="clothing"/>
+    <file name="w-03-1-u11349-r-fr.png" crc="435807562" ref="clothing"/>
+    <file name="w-04-1-u11394-fr.jpg" crc="3795716300" ref="clothing"/>
+    <file name="w-04-1-u11394-r-fr.png" crc="4072709122" ref="clothing"/>
+    <file name="w-05-1-u11523-fr.jpg" crc="4174084690" ref="clothing"/>
+    <file name="w-05-1-u11523-r-fr.png" crc="4156454322" ref="clothing"/>
+    <file name="m-02-5-u11638-fr.jpg" crc="3982052913" ref="clothing"/>
+    <file name="m-02-5-u11638-r-fr.png" crc="4197743891" ref="clothing"/>
+    <file name="m-01-1-u11640-fr.jpg" crc="3816693743" ref="clothing"/>
+    <file name="m-01-1-u11640-r-fr.png" crc="4004245018" ref="clothing"/>
+    <file name="w-06-1-u11867-fr.jpg" crc="3934283890" ref="clothing"/>
+    <file name="w-06-1-u11867-r-fr.png" crc="328942113" ref="clothing"/>
+    <file name="m-03-1-u11869-fr.jpg" crc="3827496659" ref="clothing"/>
+    <file name="m-03-1-u11869-r-fr.png" crc="513971168" ref="clothing"/>
+    <file name="w-07-1-u11871-fr.jpg" crc="283390304" ref="clothing"/>
+    <file name="w-07-1-u11871-r-fr.png" crc="4254617305" ref="clothing"/>
+    <file name="w-08-1-u12016-fr.jpg" crc="3995411614" ref="clothing"/>
+    <file name="w-08-1-u12016-r-fr.png" crc="3811030231" ref="clothing"/>
+    <file name="m-04-1-u12018-fr.jpg" crc="3910967194" ref="clothing"/>
+    <file name="m-04-1-u12018-r-fr.png" crc="135508173" ref="clothing"/>
+    <file name="w-09-1-u12321-fr.jpg" crc="464174484" ref="clothing"/>
+    <file name="w-09-1-u12321-r-fr.png" crc="3911373785" ref="clothing"/>
+    <file name="w-01-1.jpg" crc="4056438508" seo="true" ref="clothing"/>
+    <file name="w-01-3.jpg" crc="3900447895" seo="true" ref="clothing"/>
+    <file name="w-01-4.jpg" crc="3999260255" seo="true" ref="clothing"/>
+    <file name="w-01-1-crop-u11400.jpg" crc="444554277" ref="clothing"/>
+    <file name="w-01-3-crop-u11495.jpg" crc="301999896" ref="clothing"/>
+    <file name="w-01-4-crop-u11504.jpg" crc="237656028" ref="clothing"/>
+    <file name="w-02-1.jpg" crc="289241000" seo="true" ref="clothing"/>
+    <file name="w-02-2.jpg" crc="9442157" seo="true" ref="clothing"/>
+    <file name="w-02-1-crop-u11168.jpg" crc="4233511089" ref="clothing"/>
+    <file name="w-02-2-crop-u11269.jpg" crc="4029758468" ref="clothing"/>
+    <file name="w-03-1.jpg" crc="3818176716" seo="true" ref="clothing"/>
+    <file name="w-03-2.jpg" crc="134261969" seo="true" ref="clothing"/>
+    <file name="w-03-3.jpg" crc="3811769419" seo="true" ref="clothing"/>
+    <file name="w-03-1-crop-u11529.jpg" crc="4145379136" ref="clothing"/>
+    <file name="w-03-2-crop-u11620.jpg" crc="3940745223" ref="clothing"/>
+    <file name="w-03-3-crop-u12187.jpg" crc="3934552476" ref="clothing"/>
+    <file name="w-04-1.jpg" crc="309209412" seo="true" ref="clothing"/>
+    <file name="w-04-2.jpg" crc="4028486570" seo="true" ref="clothing"/>
+    <file name="w-04-1-crop-u11649.jpg" crc="235956673" ref="clothing"/>
+    <file name="w-04-2-crop-u11738.jpg" crc="3786557817" ref="clothing"/>
+    <file name="w-05-1.jpg" crc="413397642" seo="true" ref="clothing"/>
+    <file name="w-05-2.jpg" crc="4026308905" seo="true" ref="clothing"/>
+    <file name="w-05-3.jpg" crc="14677465" seo="true" ref="clothing"/>
+    <file name="w-05-1-crop-u11757.jpg" crc="4171950271" ref="clothing"/>
+    <file name="w-05-2-crop-u11852.jpg" crc="190945119" ref="clothing"/>
+    <file name="w-05-3-crop-u11861.jpg" crc="4207268194" ref="clothing"/>
+    <file name="m-02-5.jpg" crc="212889791" seo="true" ref="clothing"/>
+    <file name="m-02-1.jpg" crc="3866251994" seo="true" ref="clothing"/>
+    <file name="m-02-2.jpg" crc="3905404732" seo="true" ref="clothing"/>
+    <file name="m-02-3.jpg" crc="336070783" seo="true" ref="clothing"/>
+    <file name="m-02-4.jpg" crc="3851926875" seo="true" ref="clothing"/>
+    <file name="m-02-5-crop-u12024.jpg" crc="3817564525" ref="clothing"/>
+    <file name="m-02-1-crop-u12146.jpg" crc="3798207395" ref="clothing"/>
+    <file name="m-02-2-crop-u12155.jpg" crc="35143330" ref="clothing"/>
+    <file name="m-02-3-crop-u12164.jpg" crc="269572219" ref="clothing"/>
+    <file name="m-02-4-crop-u12173.jpg" crc="3935288954" ref="clothing"/>
+    <file name="m-01-1.jpg" crc="4052787293" seo="true" ref="clothing"/>
+    <file name="m-01-2.jpg" crc="4017016348" seo="true" ref="clothing"/>
+    <file name="m-01-3.jpg" crc="235462626" seo="true" ref="clothing"/>
+    <file name="m-01-4.jpg" crc="33233963" seo="true" ref="clothing"/>
+    <file name="m-01-1-crop-u11887.jpg" crc="277883331" ref="clothing"/>
+    <file name="m-01-2-crop-u11991.jpg" crc="302890586" ref="clothing"/>
+    <file name="m-01-3-crop-u12000.jpg" crc="357520174" ref="clothing"/>
+    <file name="m-01-4-crop-u12009.jpg" crc="4257703162" ref="clothing"/>
+    <file name="w-06-1.jpg" crc="4184421239" seo="true" ref="clothing"/>
+    <file name="w-06-2.jpg" crc="4227074846" seo="true" ref="clothing"/>
+    <file name="w-06-3.jpg" crc="29878643" seo="true" ref="clothing"/>
+    <file name="w-06-1-crop-u12211.jpg" crc="423271514" ref="clothing"/>
+    <file name="w-06-2-crop-u12306.jpg" crc="4143893476" ref="clothing"/>
+    <file name="w-06-3-crop-u12315.jpg" crc="124120146" ref="clothing"/>
+    <file name="m-03-1.jpg" crc="4162926610" seo="true" ref="clothing"/>
+    <file name="m-03-2.jpg" crc="23570237" seo="true" ref="clothing"/>
+    <file name="m-03-3.jpg" crc="26113363" seo="true" ref="clothing"/>
+    <file name="m-03-1-crop-u12469.jpg" crc="473129837" ref="clothing"/>
+    <file name="m-03-2-crop-u12563.jpg" crc="356464811" ref="clothing"/>
+    <file name="m-03-3-crop-u12572.jpg" crc="244084299" ref="clothing"/>
+    <file name="w-07-1.jpg" crc="4262033315" seo="true" ref="clothing"/>
+    <file name="w-07-2.jpg" crc="382780628" seo="true" ref="clothing"/>
+    <file name="w-07-3.jpg" crc="506256138" seo="true" ref="clothing"/>
+    <file name="w-07-1-crop-u12345.jpg" crc="3812961192" ref="clothing"/>
+    <file name="w-07-2-crop-u12440.jpg" crc="4075986729" ref="clothing"/>
+    <file name="w-07-3-crop-u12449.jpg" crc="4178317793" ref="clothing"/>
+    <file name="w-08-1.jpg" crc="135101159" seo="true" ref="clothing"/>
+    <file name="w-08-3.jpg" crc="489723005" seo="true" ref="clothing"/>
+    <file name="w-08-2.jpg" crc="4026538553" seo="true" ref="clothing"/>
+    <file name="w-08-1-crop-u12595.jpg" crc="446610351" ref="clothing"/>
+    <file name="w-08-3-crop-u12700.jpg" crc="3760911916" ref="clothing"/>
+    <file name="w-08-2-crop-u12691.jpg" crc="3967018962" ref="clothing"/>
+    <file name="m-04-1.jpg" crc="3813555907" seo="true" ref="clothing"/>
+    <file name="m-04-2.jpg" crc="390213615" seo="true" ref="clothing"/>
+    <file name="m-04-1-crop-u12723.jpg" crc="3789303395" ref="clothing"/>
+    <file name="m-04-2-crop-u12813.jpg" crc="475787955" ref="clothing"/>
+    <file name="w-09-1.jpg" crc="222796701" seo="true" ref="clothing"/>
+    <file name="w-09-2.jpg" crc="89930395" seo="true" ref="clothing"/>
+    <file name="w-09-3.jpg" crc="146884621" seo="true" ref="clothing"/>
+    <file name="w-09-1-crop-u12832.jpg" crc="171147204" ref="clothing"/>
+    <file name="w-09-2-crop-u12926.jpg" crc="3915971986" ref="clothing"/>
+    <file name="w-09-3-crop-u12935.jpg" crc="255513270" ref="clothing"/>
+  </folder>
+  <file name="index.html" crc="4004731033" seo="true" mt="1450048148994" redirect="true"/>
+  <file name="about--contact.html" crc="3853134167" seo="true" mt="1450048148994" redirect="true"/>
+  <file name="toys.html" crc="207254228" seo="true" mt="1450048148994" redirect="true"/>
+  <file name="shawls.html" crc="3842718739" seo="true" mt="1450048148994" redirect="true"/>
+  <file name="clothing.html" crc="3926211686" seo="true" mt="1450048148994" redirect="true"/>
+</manifest>
