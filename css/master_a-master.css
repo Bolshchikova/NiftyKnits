@@ -47,10 +47,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 22px;
 	color: #C0A6A0;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: ubuntu-condensed, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -80,10 +80,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 22px;
 	color: #C0A6A0;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: ubuntu-condensed, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -113,10 +113,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 22px;
 	color: #C0A6A0;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: ubuntu-condensed, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -146,10 +146,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 22px;
 	color: #C0A6A0;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: ubuntu-condensed, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -186,10 +186,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 22px;
 	color: #C0A6A0;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: ubuntu-condensed, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -223,9 +223,9 @@
 #u14293-4
 {
 	background-color: transparent;
+	line-height: 16px;
 	color: #A48378;
 	font-size: 13px;
-	line-height: 16px;
 	font-family: ubuntu-condensed, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -243,9 +243,9 @@
 #u14291-4
 {
 	background-color: transparent;
+	line-height: 16px;
 	color: #A48378;
 	font-size: 13px;
-	line-height: 16px;
 	font-family: ubuntu-condensed, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -254,9 +254,9 @@
 #u14290-4
 {
 	background-color: transparent;
+	line-height: 16px;
 	color: #A48378;
 	font-size: 13px;
-	line-height: 16px;
 	font-family: ubuntu-condensed, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -275,8 +275,8 @@
 	color: #A48378;
 	text-align: justify;
 	letter-spacing: 0px;
-	font-size: 13px;
 	line-height: 16px;
+	font-size: 13px;
 	font-family: ubuntu-condensed, sans-serif;
 	font-weight: 400;
 	position: relative;

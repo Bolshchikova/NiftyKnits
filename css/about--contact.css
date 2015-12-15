@@ -1,7 +1,7 @@
 .version.about__contact /* version checker */
 {
-	color: #0000E2;
-	background-color: #EBC81D;
+	color: #000009;
+	background-color: #8BDF9A;
 }
 
 .html
@@ -463,10 +463,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	line-height: 25px;
 	color: #83564B;
 	text-align: center;
 	font-size: 18px;
-	line-height: 25px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 300;
 	position: relative;

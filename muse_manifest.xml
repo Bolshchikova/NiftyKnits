@@ -1,17 +1,17 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="niftyknits.org" resolutions="1x" timestamp="1450050748956">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="niftyknits.org" resolutions="1x" timestamp="1450165433890">
   <folder name="css">
     <file name="site_global.css" crc="335043422"/>
-    <file name="master_a-master.css" crc="3813088481" ref="clothing:about--contact:index:toys:shawls"/>
-    <file name="clothing.css" crc="472100042" ref="clothing"/>
-    <file name="iefonts_clothing.css" crc="4139169070" ref="clothing"/>
-    <file name="about--contact.css" crc="3807103005" ref="about--contact"/>
-    <file name="iefonts_about--contact.css" crc="418934740" ref="about--contact"/>
+    <file name="master_a-master.css" crc="455223779" ref="shawls:index:toys:about--contact:clothing"/>
+    <file name="shawls.css" crc="307324938" ref="shawls"/>
+    <file name="iefonts_shawls.css" crc="126890461" ref="shawls"/>
     <file name="index.css" crc="3905616230" ref="index"/>
     <file name="iefonts_index.css" crc="276544164" ref="index"/>
     <file name="toys.css" crc="3893827513" ref="toys"/>
     <file name="iefonts_toys.css" crc="4090967855" ref="toys"/>
-    <file name="shawls.css" crc="307324938" ref="shawls"/>
-    <file name="iefonts_shawls.css" crc="126890461" ref="shawls"/>
+    <file name="about--contact.css" crc="160161690" ref="about--contact"/>
+    <file name="iefonts_about--contact.css" crc="418934740" ref="about--contact"/>
+    <file name="clothing.css" crc="472100042" ref="clothing"/>
+    <file name="iefonts_clothing.css" crc="4139169070" ref="clothing"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:about--contact:toys:shawls:clothing"/>
@@ -598,9 +598,9 @@
     <file name="w-09-2-crop-u12926.jpg" crc="3915971986" ref="clothing"/>
     <file name="w-09-3-crop-u12935.jpg" crc="255513270" ref="clothing"/>
   </folder>
-  <file name="index.html" crc="4004731033" seo="true" mt="1450048148994" redirect="true"/>
-  <file name="about--contact.html" crc="3853134167" seo="true" mt="1450048148994" redirect="true"/>
-  <file name="toys.html" crc="207254228" seo="true" mt="1450048148994" redirect="true"/>
-  <file name="shawls.html" crc="3842718739" seo="true" mt="1450048148994" redirect="true"/>
-  <file name="clothing.html" crc="3926211686" seo="true" mt="1450048148994" redirect="true"/>
+  <file name="index.html" crc="3766139489" seo="true" mt="1450162072213" redirect="true"/>
+  <file name="about--contact.html" crc="16700768" seo="true" mt="1450162072213" redirect="true"/>
+  <file name="toys.html" crc="525831435" seo="true" mt="1450162072213" redirect="true"/>
+  <file name="shawls.html" crc="455442" seo="true" mt="1450162072213" redirect="true"/>
+  <file name="clothing.html" crc="4271401895" seo="true" mt="1450162072213" redirect="true"/>
 </manifest>
