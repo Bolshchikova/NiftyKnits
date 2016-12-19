@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="niftyknits.org" resolutions="1x" timestamp="1479855453664">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="niftyknits.org" resolutions="1x" timestamp="1482178974379">
   <folder name="css">
-    <file name="site_global.css" crc="12500561"/>
-    <file name="master_a-master.css" crc="4025456884" ref="toys:knitwear:index:shawls"/>
-    <file name="nomq_preview_master_a-master.css" crc="3803484280" ref="toys:knitwear:index:shawls"/>
-    <file name="toys.css" crc="4093956933" ref="toys"/>
+    <file name="site_global.css" crc="4054063266"/>
+    <file name="master_a-master.css" crc="147639857" ref="toys:knitwear:index:shawls"/>
+    <file name="nomq_preview_master_a-master.css" crc="395940021" ref="toys:knitwear:index:shawls"/>
+    <file name="toys.css" crc="4232760468" ref="toys"/>
     <file name="nomq_toys.css" crc="238083823" ref="toys"/>
     <file name="iefonts_toys.css" crc="336560756" ref="toys"/>
-    <file name="knitwear.css" crc="419746841" ref="knitwear"/>
+    <file name="knitwear.css" crc="4157856096" ref="knitwear"/>
     <file name="nomq_knitwear.css" crc="4058703857" ref="knitwear"/>
     <file name="iefonts_knitwear.css" crc="336560756" ref="knitwear"/>
-    <file name="index.css" crc="3918018115" ref="index"/>
+    <file name="index.css" crc="3905536538" ref="index"/>
     <file name="nomq_index.css" crc="377729941" ref="index"/>
     <file name="iefonts_index.css" crc="336560756" ref="index"/>
-    <file name="shawls.css" crc="3826698191" ref="shawls"/>
+    <file name="shawls.css" crc="513967309" ref="shawls"/>
     <file name="nomq_shawls.css" crc="4041782823" ref="shawls"/>
     <file name="iefonts_shawls.css" crc="336560756" ref="shawls"/>
   </folder>
@@ -93,7 +93,7 @@
     <file name="hedgehog-5.jpg" crc="130938504" seo="true" ref="toys"/>
     <file name="hedgehog-6.jpg" crc="3914087010" seo="true" ref="toys"/>
     <file name="hedgehog-7.jpg" crc="510393611" seo="true" ref="toys"/>
-    <file name="hedgehog-2-crop-u37242.jpg" crc="4258569415" ref="toys"/>
+    <file name="hedgehog-2-crop-u37242.jpg" crc="4240678675" ref="toys"/>
     <file name="hedgehog-1-crop-u37250.jpg" crc="3789467859" ref="toys"/>
     <file name="hedgehog-3-crop-u37248.jpg" crc="3764646386" ref="toys"/>
     <file name="hedgehog-4-crop-u37244.jpg" crc="517103109" ref="toys"/>
@@ -312,7 +312,7 @@
     <file name="owl-3-crop-u38075.jpg" crc="286793239" ref="toys"/>
     <file name="owl-4-crop-u38073.jpg" crc="279105620" ref="toys"/>
     <file name="owl-5-crop-u38067.jpg" crc="363900518" ref="toys"/>
-    <file name="owl-6-crop-u38077.jpg" crc="4276511881" ref="toys"/>
+    <file name="owl-6-crop-u38077.jpg" crc="52329048" ref="toys"/>
     <file name="owl-7-crop-u38069.jpg" crc="531331605" ref="toys"/>
     <file name="arist-1.jpg" crc="3778862260" seo="true" ref="toys"/>
     <file name="arist-2.jpg" crc="4231902672" seo="true" ref="toys"/>
@@ -398,7 +398,7 @@
     <file name="boatswain-7-crop-u63796.jpg" crc="3865407314" ref="toys"/>
     <file name="close-button-ellipse 2 copy 5c.png" crc="301328443" ref="toys:shawls:knitwear"/>
     <file name="close-button-ellipse 2 copy 6.png" crc="3901802776" ref="toys:shawls:knitwear"/>
-    <file name="hedgehog-2-crop-u372422.jpg" crc="4258569415" ref="toys"/>
+    <file name="hedgehog-2-crop-u372422.jpg" crc="4240678675" ref="toys"/>
     <file name="hedgehog-1-crop-u372502.jpg" crc="3789467859" ref="toys"/>
     <file name="hedgehog-3-crop-u372482.jpg" crc="3764646386" ref="toys"/>
     <file name="hedgehog-4-crop-u372442.jpg" crc="517103109" ref="toys"/>
@@ -510,7 +510,7 @@
     <file name="owl-3-crop-u380752.jpg" crc="286793239" ref="toys"/>
     <file name="owl-4-crop-u380732.jpg" crc="279105620" ref="toys"/>
     <file name="owl-5-crop-u380672.jpg" crc="363900518" ref="toys"/>
-    <file name="owl-6-crop-u380772.jpg" crc="4276511881" ref="toys"/>
+    <file name="owl-6-crop-u380772.jpg" crc="52329048" ref="toys"/>
     <file name="owl-7-crop-u380692.jpg" crc="531331605" ref="toys"/>
     <file name="arist-1-crop-u371242.jpg" crc="4026132284" ref="toys"/>
     <file name="arist-2-crop-u371202.jpg" crc="149449111" ref="toys"/>
@@ -556,7 +556,7 @@
     <file name="ted-2-1-u37062-fr2.jpg" crc="464840479" ref="toys"/>
     <file name="fox-1-u37050-fr2.jpg" crc="455702375" ref="toys"/>
     <file name="turt-1-u37057-fr2.jpg" crc="3803030358" ref="toys"/>
-    <file name="hedgehog-2-crop-u372423.jpg" crc="16432375" ref="toys"/>
+    <file name="hedgehog-2-crop-u372423.jpg" crc="414063213" ref="toys"/>
     <file name="hedgehog-1-crop-u372503.jpg" crc="3806461429" ref="toys"/>
     <file name="hedgehog-3-crop-u372483.jpg" crc="3913714176" ref="toys"/>
     <file name="hedgehog-4-crop-u372443.jpg" crc="4128760548" ref="toys"/>
@@ -668,7 +668,7 @@
     <file name="owl-3-crop-u380753.jpg" crc="3786218808" ref="toys"/>
     <file name="owl-4-crop-u380733.jpg" crc="4124020943" ref="toys"/>
     <file name="owl-5-crop-u380673.jpg" crc="3830183233" ref="toys"/>
-    <file name="owl-6-crop-u380773.jpg" crc="4042737371" ref="toys"/>
+    <file name="owl-6-crop-u380773.jpg" crc="534011622" ref="toys"/>
     <file name="owl-7-crop-u380693.jpg" crc="4223738175" ref="toys"/>
     <file name="arist-1-crop-u371243.jpg" crc="4229545875" ref="toys"/>
     <file name="arist-2-crop-u371203.jpg" crc="4024315886" ref="toys"/>
@@ -2074,8 +2074,8 @@
     <file name="shawl-5-3-crop-u1607196.jpg" crc="4031229480" ref="shawls"/>
     <file name="shawl-5-4-crop-u1607156.jpg" crc="3968832727" ref="shawls"/>
   </folder>
-  <file name="index.html" crc="310977133" seo="true" mt="1479705190266" redirect="true"/>
-  <file name="toys.html" crc="3935325502" seo="true" mt="1479705201785" redirect="true"/>
-  <file name="shawls.html" crc="360487531" seo="true" mt="1479705299969" redirect="true"/>
-  <file name="knitwear.html" crc="221133082" seo="true" mt="1479705243703" redirect="true"/>
+  <file name="index.html" crc="496438582" seo="true" mt="1482178304362" redirect="true"/>
+  <file name="toys.html" crc="453115458" seo="true" mt="1482178304362" redirect="true"/>
+  <file name="shawls.html" crc="4024450066" seo="true" mt="1482178304362" redirect="true"/>
+  <file name="knitwear.html" crc="145843088" seo="true" mt="1482178304362" redirect="true"/>
 </manifest>
